@@ -2,10 +2,7 @@
 ## Objetivo do Projeto
 Desenvolver um dashboard interativo capaz de monitorar métricas estratégicas de vendas, identificar padrões de faturamento e lucratividade, avaliar eficiência logística e gerar insights que auxiliem na tomada de decisão baseada em dados.
 
-## Dataset Utilizado 
-- <a href="https://github.com/GabrielSilvaData/AnaliseDeVendas/blob/main/SuperStore%20Sales%20DataSet.xlsx">Dataset</a>
-
-## Perguntas de Negócio Respondidas pelo Dashboard 📌
+## Perguntas de Negócio 📌
 💰 Performance Comercial 
 - Qual é o faturamento total da empresa?
 - O lucro acompanha o crescimento das vendas?
@@ -43,6 +40,8 @@ Desenvolver um dashboard interativo capaz de monitorar métricas estratégicas d
 ![Screenshot (495)](https://github.com/GabrielSilvaData/AnaliseDeVendas/blob/main/AnaliseDeVendas.JPG)
 
 Interação com o Dashboard <a href="https://github.com/GabrielSilvaData/AnaliseDeVendas/blob/main/AnaliseDeVendas.JPG">View Dashboard</a>
+## Fonte de Dados Utilizado 
+- <a href="https://github.com/GabrielSilvaData/AnaliseDeVendas/blob/main/SuperStore%20Sales%20DataSet.xlsx">Dataset</a>
 
 ## Insight do Projeto 💡
 - Identificação do segmento com maior participação nas vendas
@@ -53,6 +52,4 @@ Interação com o Dashboard <a href="https://github.com/GabrielSilvaData/Analise
 - Compreensão do comportamento sazonal das vendas
 
 ## Conclusão Final: 📊
-Este projeto demonstra a capacidade de aplicar conceitos de análise de dados, modelagem e visualização estratégica para transformar dados comerciais em informações relevantes.
-
-A construção do dashboard reforça a importância do uso de KPIs e análises visuais para suporte à tomada de decisão em ambientes corporativos.
+Este projeto demonstra a capacidade de aplicar conceitos de análise de dados, modelagem e visualização estratégica para transformar dados comerciais em informações relevantes. A construção do dashboard reforça a importância do uso de KPIs e análises visuais para suporte à tomada de decisão em ambientes corporativos.
